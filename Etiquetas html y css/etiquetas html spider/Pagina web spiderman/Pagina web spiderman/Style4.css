@@ -1,0 +1,37 @@
+.cuerpo{
+    background: linear-gradient(to right, rgb(0, 0, 0), rgb(0, 0, 0), rgb(255, 0, 0) );
+}
+
+
+.imagen1{
+    width: 600px;
+    filter: blur(6px);
+}
+
+.imagen2{
+    width: 600px;
+    position: relative;
+    top: 5px;
+    filter: brightness(10);
+}
+
+.imagen3{
+    width: 500px;
+    position: relative;
+    top: 5px;
+    filter: contrast(100);
+}
+
+.imagen4{
+    width: 600px;
+    position: relative;
+    top: 5px;
+    filter:grayscale();
+}
+
+.imagen5{
+    width: 600px;
+    position: relative;
+    top: 5px;
+    filter:invert();
+}

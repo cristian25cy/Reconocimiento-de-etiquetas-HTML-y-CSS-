@@ -1,0 +1,104 @@
+
+.cuerpo{
+    background: linear-gradient(to right, rgb(255, 0, 0), rgb(0, 0, 0) );
+}
+
+.h1{
+ font-size: 67px;
+ background: linear-gradient( to right, rgb(0, 0, 0) , rgb(17, 0, 255) );
+ background-clip: text;
+ -webkit-background-clip: text;
+ color: transparent;
+ text-align: center;
+ text-shadow: 2px 2px 4px;
+}
+
+.h2{
+    font-size: 68px;
+    background: linear-gradient( to right, rgb(255, 0, 0) , rgb(0, 0, 0),  rgb(0, 0, 0) );
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    text-align: center;
+    position: relative;
+    left: auto;
+    bottom: 5px;
+
+}
+
+.container1{
+   padding: 10px;
+   text-align: left;
+   background: #0e4791;
+   height: 88px;
+   width: 290px;
+   border-radius: 30px;
+   position: relative;
+   left: 240px;
+   top: 234px
+}
+
+
+
+.h3{
+    font-size: 60px;
+    background-clip: text;
+    background: linear-gradient( to right, rgb(241, 0, 0) , rgb(0, 0, 0) ,rgb(0, 0, 0));
+    -webkit-background-clip: text;
+    color: transparent;
+    text-align: center;
+    position: relative;
+    left: auto;
+    bottom: -3px;
+}
+
+.container2{
+   padding: 10px;
+   text-align: left;
+   height: 88px;
+   background: #0e4791;
+   width: 390px;
+   border-radius: 30px;
+   position: absolute;
+   left: 700px;
+   top: 400px
+   
+}
+
+
+.h4{
+    font-size: 60px;
+    background: linear-gradient( to right, rgb(241, 0, 0) , rgb(0, 0, 0) ,  rgb(0, 0, 0) );
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    text-align: center;
+    position: relative;
+    left: auto ;
+    bottom: -12px;
+}
+
+.container3{
+   padding: 10px;
+   text-align: left;
+   background: #0e4791;
+   height: 88px;
+   width: 300px;
+   border-radius: 30px;
+   position: absolute;
+   left: 1300px;
+   top: 400px;
+}
+
+.container4{
+    padding: 10px;
+   text-align: left;
+   background: #0e4791;
+   height: 100px;
+   width: 490px;
+   border-radius: 30px;
+   position: relative;
+   left: 740px;
+   top: 334px
+}
+
